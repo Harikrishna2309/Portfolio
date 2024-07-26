@@ -55,7 +55,10 @@
     }
     .jSTayc{
         margin-top: 100px;
+        width: 42vw !important;
+
     }
+    
   }
   @media (max-width: 767px) {
     .mobile-display-none2{
