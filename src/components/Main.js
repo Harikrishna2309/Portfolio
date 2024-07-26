@@ -6,8 +6,8 @@ import styled, { keyframes } from 'styled-components'
 import PowerButton from '../subComponents/PowerButton'
 import SocialIcons from '../subComponents/SocialIcons'
 import { YinYang } from './AllSvgs'
-import Intro from './Intro'
-;
+import Intro from './Intro';
+import "../assets/css/common.css"
 
 
 const MainContainer = styled.div`
@@ -147,6 +147,7 @@ const Main = () => {
 
             <Contact target="_blank" href="mailto:harikrishna23sep@gmail.com">
                 <motion.h2
+                className="color-red"
                 initial={{
                     y:-200,
                     transition: { type:'spring', duration: 1.5, delay:1}
@@ -180,6 +181,7 @@ const Main = () => {
             </BLOG> */}
             <WORK to="/work" click={+click}>
                 <motion.h2
+                className="responsive-margin"
                 initial={{
                     y:-200,
                     transition: { type:'spring', duration: 1.5, delay:1}

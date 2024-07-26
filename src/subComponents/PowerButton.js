@@ -4,6 +4,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 import styled from 'styled-components'
 import { PowerBtn } from '../components/AllSvgs'
+import "../assets/css/common.css"
 
 
 const Power = styled.button`
@@ -39,7 +40,7 @@ cursor: pointer;
 
 const PowerButton = () => {
     return (
-        <Power>
+        <Power className='powerbutton'>
         <NavLink to="/">
         <PowerBtn width={30} height={30} fill='currentColor' />
         </NavLink>

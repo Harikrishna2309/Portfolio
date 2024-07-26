@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { DarkTheme } from '../components/Themes'
+import "../assets/css/common.css"
 
 
 
@@ -18,7 +19,7 @@ z-index:3;
 
 const LogoComponent = (props) => {
     return (
-        <Logo color={props.theme}>
+        <Logo color={props.theme} className='mobile-display-none'>
           HK
         </Logo>
     )

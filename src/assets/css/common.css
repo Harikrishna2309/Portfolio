@@ -1,0 +1,55 @@
+@media (max-width: 1024px) {
+    .responsive-margin {
+      margin-left: 145px;
+    }
+    .powerbutton{
+        left: 45px !important;
+    }
+    .mobile-display-none{
+        display: none !important;
+    }
+    .gzQxeA{
+        left: 70px !important;
+        top:7rem !important;
+    }
+    .QMTSb{
+        display: none;
+    }
+    .jtPfJl{
+        top:3rem !important;
+    }
+    .IDaRI{
+        flex-direction: column;
+    }
+    .iANcsA{
+        margin-top: 100px;
+        width: 42vw !important;
+    }
+    .IDaRI{
+        background-color: white !important;
+    }
+    .OwENK{
+        left: 20px !important;
+    }
+    .color-red{
+        color: red;
+    }
+    .image{
+        display: none;
+    }
+  }
+  @media (max-width: 767px) {
+    .mobile-display-none2{
+        display: none;
+    }
+    .image{
+        display: block;
+        margin: 75px;
+    }
+    .image img{
+        width: 250px;
+        height: 300px;
+        position: absolute;
+        z-index: 10;
+    }
+  }
