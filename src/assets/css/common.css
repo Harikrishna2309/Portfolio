@@ -28,6 +28,10 @@
     .IDaRI{
         flex-direction: column !important;
     }
+    .jqxwLc{
+        flex-direction: column !important;
+        background-color: white !important;
+    }
     .iANcsA{
         margin-top: 100px;
         width: 42vw !important;
@@ -48,6 +52,9 @@
         height: 600px !important;
         overflow-y: scroll;
         margin-bottom: 50px;
+    }
+    .jSTayc{
+        margin-top: 100px;
     }
   }
   @media (max-width: 767px) {
