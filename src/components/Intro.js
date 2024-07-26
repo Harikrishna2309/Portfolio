@@ -83,6 +83,7 @@ const Intro = () => {
     </div>
     <div className="image">
     <img className="pic" src={Me} alt="Profile Pic" />
+    <p className="title">Full Stack Developer</p>
     </div>
     </div>
   );

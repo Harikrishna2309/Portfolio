@@ -19,7 +19,7 @@
         top:3rem !important;
     }
     .IDaRI{
-        flex-direction: column;
+        flex-direction: column !important;
     }
     .iANcsA{
         margin-top: 100px;
@@ -37,6 +37,11 @@
     .image{
         display: none;
     }
+    .jtPfJl{
+        height: 600px !important;
+        overflow-y: scroll;
+        margin-bottom: 50px;
+    }
   }
   @media (max-width: 767px) {
     .mobile-display-none2{
@@ -52,4 +57,13 @@
         position: absolute;
         z-index: 10;
     }
+    .image p{
+        z-index: 10;
+        position: absolute;
+        margin-top: 315px;
+        color: brown;
+        font-size: 25px;
+        background: antiquewhite;
+    }
+    
   }
