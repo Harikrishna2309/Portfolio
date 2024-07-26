@@ -1,3 +1,7 @@
+.bpYhOC{
+    overflow: scroll !important;
+}
+
 @media (max-width: 1024px) {
     .responsive-margin {
       margin-left: 145px;
