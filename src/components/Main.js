@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import React, { useState } from 'react'
 import { NavLink } from 'react-router-dom'
 import styled, { keyframes } from 'styled-components'
-import LogoComponent from '../subComponents/LogoComponent'
+// import LogoComponent from '../subComponents/LogoComponent'
 import PowerButton from '../subComponents/PowerButton'
 import SocialIcons from '../subComponents/SocialIcons'
 import { YinYang } from './AllSvgs'
@@ -36,15 +36,15 @@ right: calc(1rem + 2vw);
 text-decoration: none;
 z-index:1;
 `
-const BLOG = styled(NavLink)`
-color: ${props => props.theme.text};
-position: absolute;
-top: 50%;
-right: calc(1rem + 2vw);
-transform: rotate(90deg) translate(-50%, -50%);
-text-decoration: none;
-z-index:1;
-`
+// const BLOG = styled(NavLink)`
+// color: ${props => props.theme.text};
+// position: absolute;
+// top: 50%;
+// right: calc(1rem + 2vw);
+// transform: rotate(90deg) translate(-50%, -50%);
+// text-decoration: none;
+// z-index:1;
+// `
 const WORK = styled(NavLink)`
 color: ${props => props.click ? props.theme.body : props.theme.text};
 

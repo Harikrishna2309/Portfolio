@@ -40,6 +40,7 @@ const SocialIcons = (props) => {
           style={{ color: "inherit" }}
           target="_blank"
           href={"https://github.com/Harikrishna2309"}
+          rel="noopener noreferrer"
         >
           <Github
             width={25}
@@ -57,6 +58,7 @@ const SocialIcons = (props) => {
         style={{ color: "inherit" }}
         target="_blank"
         href="https://www.linkedin.com/in/harikrishnamuthusamy/"
+        rel="noopener noreferrer"
       >
         <Linkedin
           width={25}
@@ -75,6 +77,7 @@ const SocialIcons = (props) => {
         style={{ color: "inherit" }}
         target="_blank"
         href="https://leetcode.com/u/Hari_krishna_M23/"
+        rel="noopener noreferrer"
       >
         <Leetcode
           width={25}
@@ -93,6 +96,7 @@ const SocialIcons = (props) => {
         style={{ color: "inherit" }}
         target="_blank"
         href="https://wa.me/9080031847"
+        rel="noopener noreferrer"
       >
         <Whatsapp
           width={25}
