@@ -58,6 +58,9 @@
         width: 42vw !important;
 
     }
+    .jyHKpt{
+        left: 40px;
+    }
     
   }
   @media (max-width: 767px) {
