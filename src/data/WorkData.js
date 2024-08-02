@@ -7,7 +7,7 @@ export const Work = [
         description:"Developed a web application that allows users to efficiently track their expenses and manage their budgets. The application provides an intuitive user interface for logging expenses, categorizing spending, and monitoring budget limits. Additionally, it includes a robust authentication system, ensuring secure user access and data management. The backend supports reliable data storage and efficient handling of user interactions, delivering a seamless and responsive user experience.",
         tags:["React.js","Node.js","PostgreSQL","Firebase"],
         
-        // demo:"https://agency-website-eta.vercel.app/",
+        demo:"https://github.com/Harikrishna2309/Project-ExpensesTracker",
         github:"https://github.com/Harikrishna2309/Project-ExpensesTracker"
     },
     {
@@ -36,7 +36,7 @@ export const Work = [
         tags:["MySQL"],
         
         demo:"https://www.hackerrank.com/profile/Harikrishna_M23",
-        // github:"https://github.com/codebucks27/react-sidebar"
+        github:"https://www.hackerrank.com/profile/Harikrishna_M23"
        
     },{
         id:5,
@@ -44,7 +44,7 @@ export const Work = [
         description:"Developed a web application that allows users to efficiently track their expenses and manage their budgets. The application provides an intuitive user interface for logging expenses, categorizing spending, and monitoring budget limits. Additionally, it includes a robust authentication system, ensuring secure user access and data management. The backend supports reliable data storage and efficient handling of user interactions, delivering a seamless and responsive user experience.",
         tags:["React.js","Node.js","PostgreSQL","Firebase"],
         
-        // demo:"https://agency-website-eta.vercel.app/",
+        demo:"https://github.com/Harikrishna2309/Project-ExpensesTracker",
         github:"https://github.com/Harikrishna2309/Project-ExpensesTracker"
         
     },
